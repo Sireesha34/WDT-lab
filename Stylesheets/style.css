@@ -1,0 +1,22 @@
+img{
+border-radius: 4px;
+padding: 5px;
+width: 250px;
+height: 250px;
+}
+table,tr,th{
+text-align:"center";
+}
+h1{
+text-align:"center";
+}
+button{
+background-color:#bfff00;
+border: none;
+color:#ffooff;
+padding: 15px,32px;
+text-align: "center";
+text-decoration:none;
+display: inline-block;
+front-size:16px;
+}
